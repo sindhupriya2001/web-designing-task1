@@ -1,0 +1,32 @@
+body{
+	background: #CEF4DB ;
+}
+.maindiv{
+	background: #57DAB3 ;
+	display: flex;
+	justify-content: space-around;
+	margin: 5%;
+}
+.leftdiv{
+	background: #1F6637 ;
+	margin: 5%;
+	border-radius: 4%;
+	box-shadow: 4px 4px 4px 4px;
+	width: 25%;
+	text-align: center;
+	height: 45%;
+}
+.rightdiv{
+	background: #1F6637 ;
+	margin: 5%;
+	border-radius: 4%;
+	box-shadow: 4px 4px 4px 4px;
+	width: 60%;
+	padding: 2%;
+}
+img{
+	border-radius: 4%;
+	margin: 4%;
+	width: 50%;
+	height: 30%;
+}
